@@ -25,6 +25,9 @@ List of Parameters
 
 
 References
+
 MSDN - How to convert between ASCII and EBCDIC character codes support.microsoft.com/kb/216399
+
 ASCII / EBCDIC 	www.simotime.com/asc2ebc1.htm
+
 EBCDIC http://en.wikipedia.org/wiki/EBCDIC
